@@ -10,9 +10,6 @@ decision systems.
 - Marketing and business analytics
 - Generative AI and AI agents
 
-## Technical Skills
-Python · R · SQL · Excel · Power BI · scikit-learn · Qiskit
-
-#Contact
-LinkedIn: mirayincibasaran
-Email: mirbasrn@gmail.com
+# Contact
+- LinkedIn: mirayincibasaran
+- Email: mirbasrn@gmail.com
