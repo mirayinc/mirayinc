@@ -1,8 +1,24 @@
-# Hi there! I’m @mirayinc 😇💫  
+# Hi, I'm Miray 👋
 
-**🎓 Statistics Student | 📊 Lifelong Learner | 🚀 Passionate About Growth**
+I am a senior Statistics student at Hacettepe University,
+interested in data analytics, data science and AI-driven
+decision systems.
 
-I'm a **Statistics** student dedicated to improving myself every day. I thrive on learning, exploring new challenges, and contributing to impactful projects through hard work and determination. 🌟  
+## What I Work On
+- Statistical data analysis
+- Machine learning and predictive analytics
+- Marketing and business analytics
+- Generative AI and AI agents
 
+## Featured Projects
+- Student Depression Risk Analysis
+- Formula 1 Performance Analytics
+- AI Product–Market Fit Detector
+- Location Intelligence for Retail
 
-Let's grow together! 🌱  
+## Technical Skills
+Python · R · SQL · Excel · Power BI · scikit-learn · Qiskit
+
+## Contact
+LinkedIn: ...
+Email: ...
